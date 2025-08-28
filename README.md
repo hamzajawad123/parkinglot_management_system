@@ -78,4 +78,10 @@ This project provides a stack-based solution that:
    - Show Parked Cars → `showParkedCars()`  
    - Exit Program  
 3. Stack operations ensure LIFO behavior.  
-4. Program exits gracefully when selected.  
+4. Program exits gracefully when selected.
+
+---
+
+## Conclusion  
+This project successfully models a **Parking Lot System** using stacks and linked lists in C++.  
+It implements essential features such as parking, exiting, searching, and displaying vehicles while handling overflow and underflow conditions.
